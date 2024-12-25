@@ -6,7 +6,7 @@ Welcome to the ThunderGits Technologies repository for the website development p
 ## Project Details
 - **Client Name:** Patna Dental  
 - **Agency Name:** ThunderGits Technologies  
-- **Project Start Date:** 25st December 2024  
+- **Project Start Date:** 25th December 2024  
 
 ## Scope of Work
 ThunderGits Technologies will design and develop a single-page responsive website with the following sections:
