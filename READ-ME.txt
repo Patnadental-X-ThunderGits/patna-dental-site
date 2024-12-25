@@ -1,11 +1,43 @@
-  =>  Template Name    : DentCare - Dental Clinic Website Template
+# README - ThunderGits Technologies - Website Development Project
 
-  =>  Template Link    : https://htmlcodex.com/dental-clinic-website-template
+## Project Overview
+Welcome to the ThunderGits Technologies repository for the website development project for Patna Dental. This repository contains all the resources, code, and documentation required for the development, deployment, and maintenance of the single-page website.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+## Project Details
+- **Client Name:** Patna Dental  
+- **Agency Name:** ThunderGits Technologies  
+- **Project Start Date:** 25st December 2024  
 
-  =>  Template Author  : HTML Codex
+## Scope of Work
+ThunderGits Technologies will design and develop a single-page responsive website with the following sections:
+- **Home**
+- **About Us**
+- **Our Branches**
+- **Services**
+- **Our Team**
+- **FAQs**
+- **Testimonials**
+- **News**
+- **Blog**
+- **Join Us**
+- **Contact Us**
+- **Footer Section**
+- **Join Our Franchise**
+- **WhatsApp Integration**
 
-  =>  Author Website   : https://htmlcodex.com
+## Milestones
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+## Technologies Used
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Node.js/Express.js 
+- **Database:** MongoDB (if applicable)
+- **Frameworks/Libraries:** Bootstrap
+- **Version Control:** Git/GitHub
+
+## Deployment
+- **Hosting Provider:** TBD (To be determined by the client)
+- **Domain Name:** TBD
+
+
+
+
